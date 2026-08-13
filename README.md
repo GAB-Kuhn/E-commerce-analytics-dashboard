@@ -12,7 +12,7 @@ Solução completa de Business Intelligence e Data Analytics para acompanhamento
 
 * **Fonte de Dados:** Excel / Arquivos Flat
 * **ETL :** Python (Pandas)
-* **Modelagem:** Power Query & DAX
+* **Modelagem:** Power Query e DAX
 * **Visualização:** Power BI
 
 
