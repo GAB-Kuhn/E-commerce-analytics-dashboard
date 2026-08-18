@@ -15,6 +15,7 @@ Solução completa de Business Intelligence e Data Analytics para acompanhamento
 * **Modelagem:** Power Query e DAX
 * **Visualização:** Power BI
 
+---
 
 <img width="1446" height="810" alt="Visao_geral" src="https://github.com/user-attachments/assets/d9ff20cd-b383-47f9-b348-e5ad8a1bd294" />
 
